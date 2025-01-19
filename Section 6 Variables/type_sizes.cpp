@@ -22,12 +22,12 @@ int main(){
 
 
     cout<<"climit min-max of data types"<<endl<<"====================================================="<<endl;
-    cout<<"character: "<<CHAR_MIN<<"to"<<CHAR_MAX<<endl;
+    cout<<"character: "<<CHAR_MIN<<" to "<<CHAR_MAX<<endl;
     cout<<"--------------------------------"<<endl;
-    cout<<"int: "<<INT_MIN<<"to"<<INT_MAX<<endl;
-    cout<<"short: "<<SHRT_MIN<<"to"<<SHRT_MAX<<endl;
-    cout<<"long: "<<LONG_MIN<<"to"<<LONG_MAX<<endl;
-    cout<<"long long: "<<LLONG_MIN<<"to"<<LLONG_MAX<<endl;
+    cout<<"int: "<<INT_MIN<<" to "<<INT_MAX<<endl;
+    cout<<"short: "<<SHRT_MIN<<" to "<<SHRT_MAX<<endl;
+    cout<<"long: "<<LONG_MIN<<" to "<<LONG_MAX<<endl;
+    cout<<"long long: "<<LLONG_MIN<<" to"<<LLONG_MAX<<endl;
     cout<<"--------------------------------"<<endl;
  
 
