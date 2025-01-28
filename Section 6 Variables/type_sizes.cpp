@@ -27,7 +27,7 @@ int main(){
     cout<<"int: "<<INT_MIN<<" to "<<INT_MAX<<endl;
     cout<<"short: "<<SHRT_MIN<<" to "<<SHRT_MAX<<endl;
     cout<<"long: "<<LONG_MIN<<" to "<<LONG_MAX<<endl;
-    cout<<"long long: "<<LLONG_MIN<<" to"<<LLONG_MAX<<endl;
+    cout<<"long long: "<<LLONG_MIN<<" to "<<LLONG_MAX<<endl;
     cout<<"--------------------------------"<<endl;
  
 
