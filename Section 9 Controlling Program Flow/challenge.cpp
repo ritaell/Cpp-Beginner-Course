@@ -108,5 +108,8 @@ int main(){
     else if(selection=='q'||selection=='Q'){
         std::cout<<"Goodbye!"<<std::endl;
     }
+    else{
+        std::cout<<"Invalid option, please select an option from the menu."<<std::endl;
+    }
     }while(selection!='q'&&selection!='Q');
 }
