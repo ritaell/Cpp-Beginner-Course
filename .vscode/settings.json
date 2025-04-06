@@ -54,7 +54,8 @@
         "streambuf": "cpp",
         "variant": "cpp",
         "iomanip": "cpp",
-        "sstream": "cpp"
+        "sstream": "cpp",
+        "cstring": "cpp"
     },
     "CodeGPT.apiKey": "CodeGPT Plus Beta"
 }

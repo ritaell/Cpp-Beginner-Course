@@ -361,3 +361,16 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Ignore .exe files in the current directory and subdirectories
+*.exe
+
+# Ignore .exe files in any directory up the tree
+**/*.exe
+
+# Ignore any directory that contains an .exe file
+**/exe/
+
+# Optionally, ignore the build or bin directories (if you have those)
+build/
+bin/
