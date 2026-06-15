@@ -4,11 +4,11 @@ class dog{
     std::string name;
     int age;
     void bark(){
-        std::cout<<"bark!"<<std::endl;
+        std::cout<<"bark bark i am a dog"<<std::endl;
     }
 };
 int main(){
     dog Alex;
     Alex.bark();
     return 0;
-}
+}  
